@@ -1,1 +1,3 @@
 # affiliate.allegro.pl
+
+take
